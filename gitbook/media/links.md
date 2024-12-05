@@ -28,3 +28,9 @@ by @poopmandefi\
 [https://x.com/poopmandefi/status/1862114700454232106](https://x.com/poopmandefi/status/1862114700454232106)
 
 ***
+
+**ON–295: Onchain Culture Pt. 1**\
+by OurNetwork\
+[https://www.ournetwork.xyz/p/on-295-onchain-culture#pumpfun-clanker](https://www.ournetwork.xyz/p/on-295-onchain-culture#pumpfun-clanker)
+
+***

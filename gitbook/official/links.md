@@ -18,14 +18,26 @@ The first token ever deployed by Clanker\
 ***
 
 **@clanker**\
-The official tokenbot account\
+The official tokenbot Warpcast account\
 [https://warpcast.com/clanker](https://warpcast.com/clanker)
+
+***
+
+**@clankeronbase**\
+The official X account\
+[https://twitter.com/clankeronbase](https://twitter.com/clankeronbase)
 
 ***
 
 **/clankers**\
 The official /clankers channel\
 [https://warpcast.com/~/channel/clankers](https://warpcast.com/~/channel/clankers)
+
+***
+
+**Docs**\
+The official documentation\
+[https://github.com/clanker-devco/DOCS](https://github.com/clanker-devco/DOCS)
 
 ***
 
