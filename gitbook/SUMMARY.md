@@ -4,24 +4,24 @@
 
 ## OFFICIAL
 
-* [Official Links](official/links.md)
+* [Official](official/links.md)
 
 ## SPECULATION
 
-* [Speculation Links](speculation/links.md)
+* [Speculation](speculation/links.md)
 
 ## DATA
 
-* [Data Links](data/links.md)
+* [Data](data/links.md)
 
 ## MEDIA
 
-* [Media Links](media/links.md)
+* [Media](media/links.md)
 
 ## GAMES
 
-* [Games Links](games/links.md)
+* [Games](games/links.md)
 
 ## BUILDERS
 
-* [Builders Links](builders/links.md)
+* [Builders](builders/links.md)
