@@ -4,4 +4,20 @@
 
 ## OFFICIAL
 
-* [Official Links](official/official-links.md)
+* [Official Links](official/README.md)
+
+## SPECULATION
+
+* [Speculation Links](speculation/README.md)
+
+## DATA
+
+* [Data Links](data/README.md)
+
+## MEDIA
+
+* [Media Links](media/README.md)
+
+## GAMES
+
+* [Games Links](games/README.md)
