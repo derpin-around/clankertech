@@ -1,5 +1,5 @@
 ---
-icon: signal-bars-good
+icon: magnifying-glass-chart
 layout: editorial
 ---
 
