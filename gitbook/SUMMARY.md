@@ -18,10 +18,10 @@
 
 * [Media](media/links.md)
 
-## GAMES
-
-* [Games](games/links.md)
-
 ## BUILDERS
 
 * [Builders](builders/links.md)
+
+## GAMES
+
+* [Games](games/links.md)
