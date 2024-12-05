@@ -2,7 +2,7 @@
 icon: coin-vertical
 layout:
   title:
-    visible: true
+    visible: false
   description:
     visible: false
   tableOfContents:
@@ -20,9 +20,9 @@ layout:
         <tr>
             <th></th>
             <th></th>
-            <th data-hidden data-card-cover data-type="files"></th>
-            <th data-hidden></th>
-            <th data-hidden data-card-target data-type="content-ref"></th>
+            <th></th>
+            <th></th>
+            <th></th>
         </tr>
     </thead>
     <tbody>
