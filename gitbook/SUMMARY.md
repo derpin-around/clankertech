@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Recently added](README.md)
+* [Choose a category](README.md)
 
 ## Getting Started
 
