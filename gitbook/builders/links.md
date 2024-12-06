@@ -82,3 +82,9 @@ Founder of <a href="https://streamm.tv/channel/clankers">Streamm.tv</a>\
 [https://warpcast.com/streamm](https://warpcast.com/streamm)
 
 ***
+
+**@derpin.eth**\
+Founder of the Clanker Ecosystem Directory\
+[https://warpcast.com/derpin.eth](https://warpcast.com/derpin.eth)
+
+***
