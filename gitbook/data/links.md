@@ -5,6 +5,12 @@ layout: editorial
 
 # Data
 
+**Clankers Market Cap Histogram**\
+Dune Query by <a href="https://warpcast.com/rjs/0x47db2683">@rjs</a>\
+[https://dune.com/queries/4378898](https://dune.com/queries/4378898)
+
+***
+
 **Clanker Fees and Revenue**\
 by DefiLlama\
 [https://defillama.com/fees/clanker](https://defillama.com/fees/clanker)

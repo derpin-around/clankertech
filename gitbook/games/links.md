@@ -11,3 +11,14 @@ Gotta clank em all\
 
 ***
 
+**Left vs Right**\
+Bet on $LEFT or $RIGHT and the winning token is purchased using all of the clanker fees from both tokens.\
+[https://clanke.rs/leftvsright/](https://clanke.rs/leftvsright/)
+
+***
+
+**Ratchet Clanker**\
+An inclusive virtual environment for everyone to enjoy community, art, discussion, education, and more\
+[https://warpcast.com/~/channel/ratchet-clanker](https://warpcast.com/~/channel/ratchet-clanker)
+
+***
