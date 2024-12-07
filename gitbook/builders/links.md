@@ -29,8 +29,14 @@ Founder of <a href="https://clank.fun">clank.fun</a> and <a href="https://anon.p
 
 ***
 
+**@tian7.eth**\
+<a href="https://dune.com/clanker_protection_team/awsome-clanker">Clank-cosystem Dashboard</a>, <a href="https://warpcast.com/clankerintern.eth">@clankerintern.eth</a>, and <a href="https://warpcast.com/clankerdata">@clankerdata</a>\
+[https://warpcast.com/tian7.eth](https://warpcast.com/tian7.eth)
+
+***
+
 **@anonpapi.eth**\
-<a href="https://dune.com/clanker_protection_team/awsome-clanker">Clank-cosystem Dashboard</a> Developer and <a href="https://warpcast.com/clankerdata">@clankerdata</a>\
+<a href="https://dune.com/clanker_protection_team/awsome-clanker">Clank-cosystem Dashboard</a>, <a href="https://warpcast.com/clankerintern.eth">@clankerintern.eth</a>, and <a href="https://warpcast.com/clankerdata">@clankerdata</a>\
 [https://warpcast.com/anonpapi.eth](https://warpcast.com/anonpapi.eth)
 
 ***

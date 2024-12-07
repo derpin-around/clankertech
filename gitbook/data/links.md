@@ -5,6 +5,12 @@ layout: editorial
 
 # Data
 
+**ClankerPT Chat Bot**\
+<a href="https://warpcast.com/clankerintern.eth">@clankerintern.eth</a> the <a href="https://warpcast.com/~/channel/clankerdata">/clankerdata</a> protection team built out <a href="https://clankeronbase.com">a bot</a> that can help users from v0 (coins pre nov 28th) learn about their fees\
+[https://clankeronbase.com](https://clankeronbase.com)
+
+***
+
 **Clankers Market Cap Histogram**\
 Dune Query by <a href="https://warpcast.com/rjs/0x47db2683">@rjs</a>\
 [https://dune.com/queries/4378898](https://dune.com/queries/4378898)

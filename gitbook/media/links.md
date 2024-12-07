@@ -5,6 +5,12 @@ layout: editorial
 
 # Media Links
 
+**Podcast Interview with <a href="https://warpcast.com/proxystudio.eth">@proxystudio.eth</a>**\
+by <a href="https://warpcast.com/jake">@jake</a> for <a href="https://warpcast.com/~/channel/purplepeople">/purplepeople</a>\
+[https://warpcast.com/jake/0x47202713](https://warpcast.com/jake/0x47202713)
+
+***
+
 **The Memecoin Trojan Horse**\
 by Bankless\
 [https://www.bankless.com/the-memecoin-trojan-horse](https://www.bankless.com/the-memecoin-trojan-horse)
