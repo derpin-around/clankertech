@@ -5,6 +5,8 @@ layout: editorial
 
 # Builders
 
+## Official
+
 **@proxystudio.eth**\
 Clanker Founder\
 [https://warpcast.com/proxystudio.eth](https://warpcast.com/proxystudio.eth)
@@ -17,15 +19,11 @@ Clanker Co-founder\
 
 ***
 
-**@deployer**\
-Founder of <a href="https://ham.fun">Ham Chain</a> and <a href="https://warpcast.com/bankr">@bankr</a> Developer\
-[https://warpcast.com/deployer](https://warpcast.com/deployer)
+## Clanker Data Protection Team
 
-***
-
-**@nt**\
-Founder of <a href="https://clank.fun">clank.fun</a> and <a href="https://anon.page">anon.page</a>\
-[https://warpcast.com/nt](https://warpcast.com/nt)
+**@jacy**\
+<a href="https://dune.com/clanker_protection_team/awsome-clanker">Clank-cosystem Dashboard</a>, <a href="https://warpcast.com/clankerintern.eth">@clankerintern.eth</a>, and <a href="https://warpcast.com/clankerdata">@clankerdata</a>\
+[https://warpcast.com/jacy](https://warpcast.com/jacy)
 
 ***
 
@@ -38,6 +36,20 @@ Founder of <a href="https://clank.fun">clank.fun</a> and <a href="https://anon.p
 **@anonpapi.eth**\
 <a href="https://dune.com/clanker_protection_team/awsome-clanker">Clank-cosystem Dashboard</a>, <a href="https://warpcast.com/clankerintern.eth">@clankerintern.eth</a>, and <a href="https://warpcast.com/clankerdata">@clankerdata</a>\
 [https://warpcast.com/anonpapi.eth](https://warpcast.com/anonpapi.eth)
+
+***
+
+## Community
+
+**@deployer**\
+Founder of <a href="https://ham.fun">Ham Chain</a> and <a href="https://warpcast.com/bankr">@bankr</a> Developer\
+[https://warpcast.com/deployer](https://warpcast.com/deployer)
+
+***
+
+**@nt**\
+Founder of <a href="https://clank.fun">clank.fun</a> and <a href="https://anon.page">anon.page</a>\
+[https://warpcast.com/nt](https://warpcast.com/nt)
 
 ***
 
