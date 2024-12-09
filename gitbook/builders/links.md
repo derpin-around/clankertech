@@ -47,6 +47,18 @@ Founder of <a href="https://ham.fun">Ham Chain</a> and <a href="https://warpcast
 
 ***
 
+**@derek**\
+Founder of <a href="https://warpcast.com/~/channel/nativefun">Native</a>\
+[https://warpcast.com/derek](https://warpcast.com/derek)
+
+***
+
+**@eriks**\
+Founder of <a href="https://warpcast.com/eriks/0x2d37e72f">TouchGrass Gallery</a>\
+[https://warpcast.com/eriks](https://warpcast.com/eriks)
+
+***
+
 **@nt**\
 Founder of <a href="https://clank.fun">clank.fun</a> and <a href="https://anon.page">anon.page</a>\
 [https://warpcast.com/nt](https://warpcast.com/nt)
