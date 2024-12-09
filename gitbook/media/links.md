@@ -5,6 +5,12 @@ layout: editorial
 
 # Media Links
 
+**Babe, what's a Clanker? YouTube Video**\
+by <a href="https://warpcast.com/yonfrula">@yonfrula</a> for <a href="https://gdupi.art/">$GDUPI</a>\
+[https://warpcast.com/yonfrula/0xc61973f0](https://warpcast.com/yonfrula/0xc61973f0)
+
+***
+
 **Podcast Interview with <a href="https://warpcast.com/proxystudio.eth">@proxystudio.eth</a>**\
 by <a href="https://warpcast.com/jake">@jake</a> for <a href="https://warpcast.com/~/channel/purplepeople">/purplepeople</a>\
 [https://warpcast.com/jake/0x47202713](https://warpcast.com/jake/0x47202713)
