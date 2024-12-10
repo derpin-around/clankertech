@@ -41,6 +41,12 @@ Clanker Co-founder\
 
 ## Community
 
+**@reisub.eth**\
+Developer of <a href="https://warpcast.com/angela9000">@angela9000</a>\
+[https://warpcast.com/reisub.eth](https://warpcast.com/reisub.eth)
+
+***
+
 **@deployer**\
 Founder of <a href="https://ham.fun">Ham Chain</a> and <a href="https://warpcast.com/bankr">@bankr</a> Developer\
 [https://warpcast.com/deployer](https://warpcast.com/deployer)
