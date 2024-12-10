@@ -7,7 +7,7 @@ layout: editorial
 
 **Update the Color**\
 Game frame for <a href="https://warpcast.com/angela9000">@angela9000</a>\
-[https://warpcast.com/reisub.eth](https://warpcast.com/reisub.eth)
+[https://warpcast.com/reisub.eth/0xbc8f865c](https://warpcast.com/reisub.eth/0xbc8f865c)
 
 ***
 
