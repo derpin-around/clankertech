@@ -17,6 +17,12 @@ Cast to buy Clankers\
 
 ***
 
+**Glanker**\
+Tag glonkybot to read through your recent casts and create a banger token based on your vibe.\
+[https://warpcast.com/diviflyy/0xd9929be1](https://warpcast.com/diviflyy/0xd9929be1)
+
+***
+
 **Clank Tank**\
 Sort Clankers by followers or Marketcap and instantly buy\
 [https://clanktank.pages.dev](https://clanktank.pages.dev)
