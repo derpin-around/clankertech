@@ -28,3 +28,9 @@ An inclusive virtual environment for everyone to enjoy community, art, discussio
 [https://warpcast.com/~/channel/ratchet-clanker](https://warpcast.com/~/channel/ratchet-clanker)
 
 ***
+
+**Clanker Themed Solitaire**\
+Offchain. Just for fun.\
+[https://clanker-solitaire.web.app](https://clanker-solitaire.web.app)
+
+***
