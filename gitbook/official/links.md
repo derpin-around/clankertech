@@ -17,6 +17,12 @@ The official documentation\
 
 ***
 
+**Partner Request Form**\
+Interested in partnering with clanker or have a feature request?\
+[https://nonstop-sunfish-303.notion.site/1585aa077077807bb9eac1569c2fc93a](https://nonstop-sunfish-303.notion.site/1585aa077077807bb9eac1569c2fc93a)
+
+***
+
 **$CLANKER Token**\
 The first token ever deployed by Clanker\
 [https://www.clanker.world/clanker/0x1bc0c42215582d5A085795f4baDbaC3ff36d1Bcb](https://www.clanker.world/clanker/0x1bc0c42215582d5A085795f4baDbaC3ff36d1Bcb)
