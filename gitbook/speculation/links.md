@@ -11,6 +11,12 @@ Find and trade the hottest Clankers\
 
 ***
 
+**1-775-CLANKER**\
+Call to deploy new Clankers\
+[https://warpcast.com/clankeroncall](https://warpcast.com/clankeroncall)
+
+***
+
 **@bankr**\
 Cast to buy Clankers\
 [https://warpcast.com/bankr](https://warpcast.com/bankr)
