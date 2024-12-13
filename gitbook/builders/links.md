@@ -41,6 +41,12 @@ Clanker Co-founder\
 
 ## Community
 
+**@0xbhaisaab**\
+Developer of <a href="https://warpcast.com/0xbhaisaab/0x04125428">Clanker On Call 1-775-CLANKER</a>\
+[https://warpcast.com/0xbhaisaab](https://warpcast.com/0xbhaisaab)
+
+***
+
 **@rch**\
 Developer of <a href="https://warpcast.com/rch/0xda9a4ecf">Clanker Launches Live Feed</a>\
 [https://warpcast.com/rch](https://warpcast.com/rch)
