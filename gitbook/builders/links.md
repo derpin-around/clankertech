@@ -41,6 +41,18 @@ Clanker Co-founder\
 
 ## Community
 
+**@rch**\
+Developer of <a href="https://warpcast.com/rch/0xda9a4ecf">Clanker Launches Live Feed</a>\
+[https://warpcast.com/rch](https://warpcast.com/rch)
+
+***
+
+**@0xpuneet**\
+Developer of <a href="https://warpcast.com/rch/0xda9a4ecf">Clanker Launches Live Feed</a>\
+[https://warpcast.com/0xpuneet](https://warpcast.com/0xpuneet)
+
+***
+
 **@reisub.eth**\
 Developer of <a href="https://warpcast.com/angela9000">@angela9000</a>\
 [https://warpcast.com/reisub.eth](https://warpcast.com/reisub.eth)
