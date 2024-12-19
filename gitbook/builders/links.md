@@ -21,15 +21,15 @@ Clanker Co-founder\
 
 ## Clanker Data Protection Team
 
-**@jacy**\
-<a href="https://dune.com/clanker_protection_team/awsome-clanker">Clank-cosystem Dashboard</a>, <a href="https://warpcast.com/clankerintern.eth">@clankerintern.eth</a>, and <a href="https://warpcast.com/clankerdata">@clankerdata</a>\
-[https://warpcast.com/jacy](https://warpcast.com/jacy)
-
-***
-
 **@tian7.eth**\
 <a href="https://dune.com/clanker_protection_team/awsome-clanker">Clank-cosystem Dashboard</a>, <a href="https://warpcast.com/clankerintern.eth">@clankerintern.eth</a>, and <a href="https://warpcast.com/clankerdata">@clankerdata</a>\
 [https://warpcast.com/tian7.eth](https://warpcast.com/tian7.eth)
+
+***
+
+**@jacy**\
+<a href="https://dune.com/clanker_protection_team/awsome-clanker">Clank-cosystem Dashboard</a>, <a href="https://warpcast.com/clankerintern.eth">@clankerintern.eth</a>, and <a href="https://warpcast.com/clankerdata">@clankerdata</a>\
+[https://warpcast.com/jacy](https://warpcast.com/jacy)
 
 ***
 
@@ -44,6 +44,12 @@ Clanker Co-founder\
 **@benbodhi**\
 Developer of <a href="https://warpcast.com/benbodhi/0xc443453e">Clanker Alerts Discord Bot</a>\
 [https://warpcast.com/benbodhi](https://warpcast.com/benbodhi)
+
+***
+
+**@aspyn**\
+Developer of <a href="https://warpcast.com/aspyn/0x889f4e2a">Clanker Deployment via Email</a>\
+[https://warpcast.com/aspyn](https://warpcast.com/aspyn)
 
 ***
 
