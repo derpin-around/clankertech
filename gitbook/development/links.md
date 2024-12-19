@@ -11,7 +11,7 @@ Deploy tokens with a single API call\
 
 ***
 
-**Neynar Clanker Deployment API**\
+**Clanker Alerts Discord Bot**\
 Discord bot alerts for new Clanker deployments\
 [https://warpcast.com/benbodhi/0xc443453e](https://warpcast.com/benbodhi/0xc443453e)
 
