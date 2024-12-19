@@ -1,5 +1,5 @@
 ---
-icon: rectangle-terminal
+icon: user-helmet-safety
 layout: editorial
 ---
 
@@ -40,6 +40,12 @@ Clanker Co-founder\
 ***
 
 ## Community
+
+**@benbodhi**\
+Developer of <a href="https://warpcast.com/benbodhi/0xc443453e">Clanker Alerts Discord Bot</a>\
+[https://warpcast.com/benbodhi](https://warpcast.com/benbodhi)
+
+***
 
 **@0xbhaisaab**\
 Developer of <a href="https://warpcast.com/0xbhaisaab/0x04125428">Clanker On Call 1-775-CLANKER</a>\
