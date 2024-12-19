@@ -54,43 +54,43 @@ Custom Dark Dashboard by <a href="https://warpcast.com/consumes.eth/0xb4900369">
 ***
 
 **Stats on Clankers created by @anonfun**\
-Dune Dashboard by <a href="https://warpcast.com/anonpapi.eth">@anonpapi.eth</a>\
+Dune Dashboard by <a href="https://warpcast.com/clankerdata">@clankerdata</a>\
 [https://dune.com/clanker_protection_team/anonfun-x-clanker](https://dune.com/clanker_protection_team/anonfun-x-clanker)
 
 ***
 
 **Stats on ALL clankers**\
-Dune Dashboard by <a href="https://warpcast.com/anonpapi.eth">@anonpapi.eth</a>\
+Dune Dashboard by <a href="https://warpcast.com/clankerdata">@clankerdata</a>\
 [https://dune.com/clanker_protection_team/clnkr4ll](https://dune.com/clanker_protection_team/clnkr4ll)
 
 ***
 
 **Clankers with lower market caps**\
-Dune Dashboard by <a href="https://warpcast.com/anonpapi.eth">@anonpapi.eth</a>\
+Dune Dashboard by <a href="https://warpcast.com/clankerdata">@clankerdata</a>\
 [https://dune.com/clanker_protection_team/top-10-or-low-marketcap-high-volume-on-clanker](https://dune.com/clanker_protection_team/top-10-or-low-marketcap-high-volume-on-clanker)
 
 ***
 
 **Big Picture Platform Status**\
-Dune Dashboard by <a href="https://warpcast.com/anonpapi.eth">@anonpapi.eth</a>\
+Dune Dashboard by <a href="https://warpcast.com/clankerdata">@clankerdata</a>\
 [https://dune.com/clanker_protection_team/awesome-clanker](https://dune.com/clanker_protection_team/awesome-clanker)
 
 ***
 
 **LP Fees Generated**\
-Dune Dashboard by <a href="https://warpcast.com/anonpapi.eth">@anonpapi.eth</a>\
+Dune Dashboard by <a href="https://warpcast.com/clankerdata">@clankerdata</a>\
 [https://dune.com/clanker_protection_team/clanker-fees](https://dune.com/clanker_protection_team/clanker-fees)
 
 ***
 
 **Coins created by @aethernet and @lanker**\
-Dune Dashboard by <a href="https://warpcast.com/anonpapi.eth">@anonpapi.eth</a>\
+Dune Dashboard by <a href="https://warpcast.com/clankerdata">@clankerdata</a>\
 [https://dune.com/clanker_protection_team/aetherclanker](https://dune.com/clanker_protection_team/aetherclanker)
 
 ***
 
 **Market Cap > $100,000**\
-Dune Dashboard by <a href="https://warpcast.com/anonpapi.eth">@anonpapi.eth</a>\
+Dune Dashboard by <a href="https://warpcast.com/clankerdata">@clankerdata</a>\
 [https://dune.com/clanker_protection_team/clnkr100kindex](https://dune.com/clanker_protection_team/clnkr100kindex)
 
 ***
