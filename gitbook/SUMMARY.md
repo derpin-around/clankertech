@@ -10,17 +10,25 @@
 
 * [Speculation](speculation/links.md)
 
+## DEPLOY
+
+* [Deploy](deploy/links.md)
+
 ## DATA
 
 * [Data](data/links.md)
+
+## BUILDERS
+
+* [Builders](builders/links.md)
 
 ## MEDIA
 
 * [Media](media/links.md)
 
-## BUILDERS
+## COMMUNITY
 
-* [Builders](builders/links.md)
+* [Community](community/links.md)
 
 ## GAMES
 
@@ -29,11 +37,3 @@
 ## DEVELOPMENT
 
 * [Development](development/links.md)
-
-## COMMUNITY
-
-* [Community](community/links.md)
-
-## DEPLOY
-
-* [Deploy](deploy/links.md)
