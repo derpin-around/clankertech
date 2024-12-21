@@ -17,6 +17,12 @@ Live feed of Clanker launches with useful information at-a-glance\
 
 ***
 
+**Top Clankers by Daily Volume Since Launch**\
+Dune Query by <a href="https://warpcast.com/proxystudio.eth/0x5e54a0d8">@clankerdata</a>\
+[https://dune.com/queries/4430479/7418450](https://dune.com/queries/4430479/7418450)
+
+***
+
 **Clankers Market Cap Histogram**\
 Dune Query by <a href="https://warpcast.com/rjs/0x47db2683">@rjs</a>\
 [https://dune.com/queries/4378898](https://dune.com/queries/4378898)
