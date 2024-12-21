@@ -33,3 +33,7 @@
 ## COMMUNITY
 
 * [Community](community/links.md)
+
+## DEPLOY
+
+* [Deploy](deploy/links.md)
