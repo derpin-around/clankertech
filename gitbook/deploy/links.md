@@ -11,6 +11,12 @@ Deploy tokens with a single API call\
 
 ***
 
+**Clank.fun**\
+Deploy tokens without a Farcaster account\
+[https://clank.fun/launch](https://clank.fun/launch)
+
+***
+
 **1-775-CLANKER**\
 Call to deploy a Clanker\
 [https://warpcast.com/clankeroncall](https://warpcast.com/clankeroncall)
