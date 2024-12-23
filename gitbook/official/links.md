@@ -111,3 +111,7 @@ Clanker Co-founder\
 [https://x.com/btayengco](https://x.com/btayengco)
 
 ***
+
+# Community Contributors
+
+Solidity by [@yungwknd](https://warpcast.com/yungwknd), [@qliqk](https://warpcast.com/qliqk) on user support, [@tian7.eth](https://warpcast.com/tian7.eth) and [@anonpapi.eth](https://warpcast.com/anonpapi.eth) via [@clankerintern.eth](https://warpcast.com/clankerintern.eth) on data and socials.
