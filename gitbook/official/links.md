@@ -29,9 +29,9 @@ The first token ever deployed by Clanker\
 
 ***
 
-## Clanker Socials
+# Clanker Socials
 
-### Farcaster
+## Farcaster
 
 **@clanker**\
 The official tokenbot Warpcast account\
@@ -45,7 +45,7 @@ The official /clankers channel\
 
 ***
 
-### Telegram
+## Telegram
 
 **Builder Chat**\
 [https://t.me/buildonclanker](https://t.me/buildonclanker)
@@ -62,7 +62,7 @@ The official /clankers channel\
 
 ***
 
-### X
+## X
 
 **@clankeronbase**\
 The official X account\
@@ -70,9 +70,9 @@ The official X account\
 
 ***
 
-## Team Socials
+# Team Socials
 
-### Farcaster
+## Farcaster
 
 **Alex**\
 Clanker Founder\
@@ -92,7 +92,7 @@ Clanker Co-founder\
 
 ***
 
-### X
+## X
 
 **Alex**\
 Clanker Founder\
