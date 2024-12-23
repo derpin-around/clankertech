@@ -29,7 +29,7 @@ The first token ever deployed by Clanker\
 
 ***
 
-## Socials
+## Clanker Socials
 
 ### Farcaster
 
@@ -42,18 +42,6 @@ The official tokenbot Warpcast account\
 **/clankers**\
 The official /clankers channel\
 [https://warpcast.com/~/channel/clankers](https://warpcast.com/~/channel/clankers)
-
-***
-
-**@proxystudio.eth**\
-Clanker Founder\
-[https://warpcast.com/proxystudio.eth](https://warpcast.com/proxystudio.eth)
-
-***
-
-**@dish**\
-Clanker Co-founder\
-[https://warpcast.com/dish](https://warpcast.com/dish)
 
 ***
 
@@ -82,14 +70,44 @@ The official X account\
 
 ***
 
-**@_proxystudio**\
+## Team Socials
+
+### Farcaster
+
+**Alex**\
+Clanker Founder\
+[https://warpcast.com/proxystudio.eth](https://warpcast.com/proxystudio.eth)
+
+***
+
+**Jack Dishman**\
+Clanker Co-founder\
+[https://warpcast.com/dish](https://warpcast.com/dish)
+
+***
+
+**Bryce Tayengco**\
+Clanker Co-founder\
+[https://warpcast.com/btayengco](https://warpcast.com/btayengco)
+
+***
+
+### X
+
+**Alex**\
 Clanker Founder\
 [https://x.com/_proxystudio](https://x.com/_proxystudio)
 
 ***
 
-**@JackDishman**\
+**Jack Dishman**\
 Clanker Co-founder\
-[https://x.com/JackDishman](https://x.com/JackDishman)
+[https://x.com/jackdishman](https://x.com/jackdishman)
+
+***
+
+**Bryce Tayengco**\
+Clanker Co-founder\
+[https://x.com/btayengco](https://x.com/btayengco)
 
 ***
