@@ -41,12 +41,13 @@ layout: editorial
 
 ## NFTs
 
-**GDUPI CULI**\
-[https://opensea.io/collection/gdupi-culi](https://opensea.io/collection/gdupi-culi)
+**Clanktardios**\
+[**Channel:** https://warpcast.com/~/channel/clanktardio](https://warpcast.com/~/channel/clanktardio)
+[**Opensea:** https://opensea.io/collection/clanktardios](https://opensea.io/collection/clanktardios)
 
 ***
 
-**Clanktardios**\
-[https://opensea.io/collection/clanktardios](https://opensea.io/collection/clanktardios)
+**GDUPI CULI**\
+[https://opensea.io/collection/gdupi-culi](https://opensea.io/collection/gdupi-culi)
 
 ***
