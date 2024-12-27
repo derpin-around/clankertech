@@ -17,7 +17,7 @@ layout: editorial
 
 ***
 
-### Telegram
+## Telegram
 
 **Builder Chat**\
 [https://t.me/buildonclanker](https://t.me/buildonclanker)
@@ -36,5 +36,17 @@ layout: editorial
 
 **Clank.fun Chat**\
 [https://t.me/clankfun](https://t.me/clankfun)
+
+***
+
+## NFTs
+
+**GDUPI CULI**\
+[https://opensea.io/collection/gdupi-culi](https://opensea.io/collection/gdupi-culi)
+
+***
+
+**Clanktardios**\
+[https://opensea.io/collection/clanktardios](https://opensea.io/collection/clanktardios)
 
 ***
