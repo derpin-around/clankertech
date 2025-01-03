@@ -17,6 +17,12 @@ Deploy tokens without a Farcaster account\
 
 ***
 
+**ClankPad**\
+A token launchpad for communities on Farcaster\
+[https://warpcast.com/mcbain/0x9b498118](https://warpcast.com/mcbain/0x9b498118)
+
+***
+
 **1-775-CLANKER**\
 Call to deploy a Clanker\
 [https://warpcast.com/clankeroncall](https://warpcast.com/clankeroncall)
