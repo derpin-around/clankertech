@@ -41,6 +41,18 @@ Clanker Co-founder\
 
 ## Community
 
+**@mcbain**\
+Developer of <a href="https://warpcast.com/mcbain/0x9b498118">ClankPad</a>\
+[https://warpcast.com/mcbain](https://warpcast.com/mcbain)
+
+***
+
+**@fffflood**\
+Creator of <a href="https://warpcast.com/fffflood/0x8ac069cf">Clankercon</a>\
+[https://warpcast.com/fffflood](https://warpcast.com/fffflood)
+
+***
+
 **@benbodhi**\
 Developer of <a href="https://warpcast.com/benbodhi/0xc443453e">Clanker Alerts Discord Bot</a>\
 [https://warpcast.com/benbodhi](https://warpcast.com/benbodhi)
