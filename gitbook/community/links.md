@@ -5,6 +5,13 @@ layout: editorial
 
 # Community
 
+## Events
+
+**Clankercon 2025**\
+[https://warpcast.com/fffflood/0x8ac069cf](https://warpcast.com/fffflood/0x8ac069cf)
+
+***
+
 ## Channels
 
 **Clankers Official**\
