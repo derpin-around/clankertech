@@ -101,4 +101,9 @@ Dune Dashboard by <a href="https://warpcast.com/clankerdata">@clankerdata</a>\
 
 ***
 
+**Bankr Metrics**\
+Dune Dashboard by <a href="https://warpcast.com/nmadd">@nmadd</a>\
+[https://dune.com/nmadd/bankr-metrics](https://dune.com/nmadd/bankr-metrics)
+
+***
 

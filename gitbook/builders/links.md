@@ -41,6 +41,12 @@ Clanker Co-founder\
 
 ## Community
 
+**@nmadd**\
+Developer of <a href="https://warpcast.com/nmadd/0x92008092">Bankr Metrics Dashboard</a>\
+[https://warpcast.com/nmadd](https://warpcast.com/nmadd)
+
+***
+
 **@mcbain**\
 Developer of <a href="https://warpcast.com/mcbain/0x9b498118">ClankPad</a>\
 [https://warpcast.com/mcbain](https://warpcast.com/mcbain)
