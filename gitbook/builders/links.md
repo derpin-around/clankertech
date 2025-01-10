@@ -41,6 +41,12 @@ Clanker Co-founder\
 
 ## Community
 
+**@downshift.eth**\
+Founder of <a href="https://warpcast.com/microsub">microsub</a> and <a href="https://warpcast.com/microsub/0x7278bbac">$clankersub</a>\
+[https://warpcast.com/downshift.eth](https://warpcast.com/downshift.eth)
+
+***
+
 **@nmadd**\
 Developer of <a href="https://warpcast.com/nmadd/0x92008092">Bankr Metrics Dashboard</a>\
 [https://warpcast.com/nmadd](https://warpcast.com/nmadd)
@@ -138,7 +144,7 @@ Founder of <a href="https://warpcast.com/~/channel/clankermon">Clankermon</a>\
 ***
 
 **@koda**\
-Founder of <a href="https://clanktank.pages.dev">Clank Tank</a>\
+Founder of <a href="https://warpcast.com/koda/0x6589d585">Agent Reserve</a> and <a href="https://clanktank.pages.dev">Clank Tank</a>\
 [https://warpcast.com/koda](https://warpcast.com/koda)
 
 ***

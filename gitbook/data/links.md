@@ -35,14 +35,14 @@ by DefiLlama\
 
 ***
 
-**Marketcap vs Time**\
+**Marketcaps Dashboard**\
 Dune Dashboard by <a href="https://warpcast.com/rjs/0xcaa25957">@rjs</a>\
 [https://dune.com/ryanjshaw/clankers](https://dune.com/ryanjshaw/clankers)
 
 ***
 
 **Marketcap vs Time**\
-Dune Dashboard by <a href="https://warpcast.com/rjs/0x47db2683">@rjs</a>\
+Dune Query by <a href="https://warpcast.com/rjs/0x47db2683">@rjs</a>\
 [https://dune.com/queries/4358795](https://dune.com/queries/4358795)
 
 ***
@@ -104,6 +104,12 @@ Dune Dashboard by <a href="https://warpcast.com/clankerdata">@clankerdata</a>\
 **Bankr Metrics**\
 Dune Dashboard by <a href="https://warpcast.com/nmadd">@nmadd</a>\
 [https://dune.com/nmadd/bankr-metrics](https://dune.com/nmadd/bankr-metrics)
+
+***
+
+**AI Swarm Financial Markets Data**\
+Agent Reserve by <a href="https://warpcast.com/koda/0x6589d585">@koda</a>\
+[https://warpcast.com/arjux](https://warpcast.com/arjux)
 
 ***
 

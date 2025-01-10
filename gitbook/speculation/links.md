@@ -17,6 +17,12 @@ Cast to buy Clankers\
 
 ***
 
+**$clankersub**\
+An experiment in using $DEGEN tips to share LP rewards from a Clanker token.\
+[https://warpcast.com/microsub/0x7278bbac](https://warpcast.com/microsub/0x7278bbac)
+
+***
+
 **Glanker**\
 Tag glonkybot to read through your recent casts and create a banger token based on your vibe.\
 [https://warpcast.com/diviflyy/0xd9929be1](https://warpcast.com/diviflyy/0xd9929be1)
