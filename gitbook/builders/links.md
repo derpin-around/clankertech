@@ -41,6 +41,12 @@ Clanker Co-founder\
 
 ## Community
 
+**@tldr**\
+Founder of Bracket.Game: <a href="https://warpcast.com/~/channel/bracket">/bracker</a>, <a href="https://warpcast.com/bracketgame">@bracketgame</a>, <a href="https://warpcast.com/bracky">@bracky</a>, <a href="https://bracket.game">web</a>\
+[https://warpcast.com/tldr](https://warpcast.com/tldr)
+
+***
+
 **@jrf**\
 Founder of Atlas: <a href="https://warpcast.com/~/channel/atlas">/atlas</a>, <a href="https://warpcast.com/atlas">@atlas</a>, <a href="https://www.clanker.world/clanker/0x0b9F23645C9053BecD257f2De5FD961091112fb1">$atlas</a>, <a href="https://www.heyjoinatlas.com/">web</a>\
 [https://warpcast.com/jrf](https://warpcast.com/jrf)
