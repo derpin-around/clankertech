@@ -41,6 +41,18 @@ Clanker Co-founder\
 
 ## Community
 
+**@jrf**\
+Founder of Atlas: <a href="https://warpcast.com/~/channel/atlas">/atlas</a>, <a href="https://warpcast.com/atlas">@atlas</a>, <a href="https://www.clanker.world/clanker/0x0b9F23645C9053BecD257f2De5FD961091112fb1">$atlas</a>, <a href="https://www.heyjoinatlas.com/">web</a>\
+[https://warpcast.com/jrf](https://warpcast.com/jrf)
+
+***
+
+**@jpfraneto.eth**\
+Founder of <a href="https://warpcast.com/~/channel/weeklyhackathon">/weeklyhackathon</a>\
+[https://warpcast.com/jpfraneto.eth](https://warpcast.com/jpfraneto.eth)
+
+***
+
 **@downshift.eth**\
 Founder of <a href="https://warpcast.com/microsub">microsub</a> and <a href="https://warpcast.com/microsub/0x7278bbac">$clankersub</a>\
 [https://warpcast.com/downshift.eth](https://warpcast.com/downshift.eth)
