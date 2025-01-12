@@ -29,6 +29,14 @@ layout: editorial
 
 ***
 
+## Agents
+
+**DegenOS**\
+<a href="https://warpcast.com/carc.eth/0x7c406bfb">$degenOS</a> token gated AI agent that is trained by the community.\
+[https://dos.live/](https://dos.live/)
+
+***
+
 ## Telegram
 
 **Builder Chat**\

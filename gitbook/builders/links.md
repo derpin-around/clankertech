@@ -41,6 +41,12 @@ Clanker Co-founder\
 
 ## Community
 
+**@carc.eth**\
+Founder of DegenOS: <a href="https://warpcast.com/degenos">@degenos</a>, <a href="https://dos.live/">web</a>\
+[https://warpcast.com/carc.eth](https://warpcast.com/carc.eth)
+
+***
+
 **@tldr**\
 Founder of Bracket.Game: <a href="https://warpcast.com/~/channel/bracket">/bracker</a>, <a href="https://warpcast.com/bracketgame">@bracketgame</a>, <a href="https://warpcast.com/bracky">@bracky</a>, <a href="https://bracket.game">web</a>\
 [https://warpcast.com/tldr](https://warpcast.com/tldr)
