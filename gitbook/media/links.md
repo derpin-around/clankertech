@@ -5,6 +5,12 @@ layout: editorial
 
 # Media Links
 
+**Into the Clanker-Verse**\
+by <a href="https://warpcast.com/jordansaping/0x0015988f">@jordansaping</a>\
+[https://members.delphidigital.io/reports/into-the-clanker-verse#introduction-53f1](https://members.delphidigital.io/reports/into-the-clanker-verse#introduction-53f1)
+
+***
+
 **Babe, what's a Clanker? YouTube Video**\
 by <a href="https://warpcast.com/yonfrula">@yonfrula</a> for <a href="https://gdupi.art/">$GDUPI</a>\
 [https://warpcast.com/yonfrula/0xc61973f0](https://warpcast.com/yonfrula/0xc61973f0)
