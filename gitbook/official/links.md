@@ -17,6 +17,12 @@ The official documentation\
 
 ***
 
+**API Docs**\
+Temporary but official API docs\
+[https://nonstop-sunfish-303.notion.site/temporary-API-docs-17f5aa0770778057b47ee718cae0f602](https://nonstop-sunfish-303.notion.site/temporary-API-docs-17f5aa0770778057b47ee718cae0f602)
+
+***
+
 **Partner Request Form**\
 Interested in partnering with clanker or have a feature request?\
 [https://nonstop-sunfish-303.notion.site/1585aa077077807bb9eac1569c2fc93a](https://nonstop-sunfish-303.notion.site/1585aa077077807bb9eac1569c2fc93a)
