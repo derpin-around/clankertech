@@ -11,6 +11,12 @@ by <a href="https://warpcast.com/jordansaping/0x0015988f">@jordansaping</a>\
 
 ***
 
+**Clanker sponsored ad in ZEROPOD S2E7**\
+by <a href="https://warpcast.com/toadyhawk.eth/0x7e9bfd8d">@toadyhawk.eth & @jackwyldes.eth</a>\
+[https://youtu.be/iS_2uVmPjTc?feature=shared&t=1341](https://youtu.be/iS_2uVmPjTc?feature=shared&t=1340)
+
+***
+
 **Babe, what's a Clanker? YouTube Video**\
 by <a href="https://warpcast.com/yonfrula">@yonfrula</a> for <a href="https://gdupi.art/">$GDUPI</a>\
 [https://warpcast.com/yonfrula/0xc61973f0](https://warpcast.com/yonfrula/0xc61973f0)
