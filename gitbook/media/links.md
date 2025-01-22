@@ -5,6 +5,12 @@ layout: editorial
 
 # Media Links
 
+**This Week in Farcaster**\
+by <a href="https://warpcast.com/sonyasupposedly">@sonyasupposedly</a>\
+[https://warpcast.com/sonyasupposedly/0x9818fee9](https://warpcast.com/sonyasupposedly/0x9818fee9)
+
+***
+
 **Into the Clanker-Verse**\
 by <a href="https://warpcast.com/jordansaping/0x0015988f">@jordansaping</a>\
 [https://members.delphidigital.io/reports/into-the-clanker-verse#introduction-53f1](https://members.delphidigital.io/reports/into-the-clanker-verse#introduction-53f1)
