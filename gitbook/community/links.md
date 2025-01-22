@@ -12,6 +12,14 @@ layout: editorial
 
 ***
 
+## Spaces
+
+**Token Spaces**\
+A customizable space for every token that the deployer can make their own with Themes, Fidgets (mini-apps), and Tabs.\
+[https://warpcast.com/nounspacetom/0xa209bbc8](https://warpcast.com/nounspacetom/0xa209bbc8)
+
+***
+
 ## Channels
 
 **Clankers Official**\

@@ -19,6 +19,12 @@ Clanker Co-founder\
 
 ***
 
+**@anonpapi.eth**\
+<a href="https://dune.com/clanker_protection_team/awsome-clanker">Clank-cosystem Dashboard</a>, <a href="https://warpcast.com/clankerintern.eth">@clankerintern.eth</a>, and <a href="https://warpcast.com/clankerdata">@clankerdata</a>\
+[https://warpcast.com/anonpapi.eth](https://warpcast.com/anonpapi.eth)
+
+***
+
 ## Clanker Data Protection Team
 
 **@tian7.eth**\
@@ -33,13 +39,13 @@ Clanker Co-founder\
 
 ***
 
-**@anonpapi.eth**\
-<a href="https://dune.com/clanker_protection_team/awsome-clanker">Clank-cosystem Dashboard</a>, <a href="https://warpcast.com/clankerintern.eth">@clankerintern.eth</a>, and <a href="https://warpcast.com/clankerdata">@clankerdata</a>\
-[https://warpcast.com/anonpapi.eth](https://warpcast.com/anonpapi.eth)
+## Community
+
+**@nounspacetom**\
+Founder of <a href="https://warpcast.com/nounspacetom/0xa209bbc8">Token Spaces</a>\
+[https://warpcast.com/nounspacetom](https://warpcast.com/nounspacetom)
 
 ***
-
-## Community
 
 **@carc.eth**\
 Founder of DegenOS: <a href="https://warpcast.com/degenos">@degenos</a>, <a href="https://dos.live/">web</a>\
