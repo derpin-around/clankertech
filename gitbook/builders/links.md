@@ -39,13 +39,31 @@ Clanker Co-founder\
 
 ***
 
-## Community
+## Token Spaces Founders & Builders
+
+<a href="https://warpcast.com/nounspacetom/0xa209bbc8">Launch Cast</a>
 
 **@nounspacetom**\
-Founder of <a href="https://warpcast.com/nounspacetom/0xa209bbc8">Token Spaces</a>\
 [https://warpcast.com/nounspacetom](https://warpcast.com/nounspacetom)
 
+**@realitycrafter.eth**\
+[https://warpcast.com/realitycrafter.eth](https://warpcast.com/realitycrafter.eth)
+
+**@willywonka.eth**\
+[https://warpcast.com/willywonka.eth](https://warpcast.com/willywonka.eth)
+
+**@skateboard**\
+[https://warpcast.com/skateboard](https://warpcast.com/skateboard)
+
+**@r4topunk**\
+[https://warpcast.com/r4topunk](https://warpcast.com/r4topunk)
+
+**@vaipraonde**\
+[https://warpcast.com/vaipraonde](https://warpcast.com/vaipraonde)
+
 ***
+
+## Community
 
 **@carc.eth**\
 Founder of DegenOS: <a href="https://warpcast.com/degenos">@degenos</a>, <a href="https://dos.live/">web</a>\
