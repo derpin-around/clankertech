@@ -23,7 +23,7 @@ by <a href="https://warpcast.com/jordansaping/0x0015988f">@jordansaping</a>\
 
 ***
 
-**Clanker sponsored ad in ZEROPOD S2E7**\
+**Clanker sponsored ad in ZEROPOD S2E7 Interview with Artist Yon Frula of the $GDUPI Clanker**\
 by <a href="https://warpcast.com/toadyhawk.eth/0x7e9bfd8d">@toadyhawk.eth & @jackwyldes.eth</a>\
 [https://youtu.be/iS_2uVmPjTc?feature=shared&t=1341](https://youtu.be/iS_2uVmPjTc?feature=shared&t=1340)
 
