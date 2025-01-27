@@ -11,6 +11,12 @@ by <a href="https://warpcast.com/sonyasupposedly">@sonyasupposedly</a>\
 
 ***
 
+**Digitized | Spotlight Ep. 14: Clanker - Tokenizing The Creator Economy w/ Alex and Jack**\
+by <a href="https://warpcast.com/digitized">@digitized</a>\
+[https://warpcast.com/digitized/0x1e499af4](https://warpcast.com/digitized/0x1e499af4)
+
+***
+
 **Into the Clanker-Verse**\
 by <a href="https://warpcast.com/jordansaping/0x0015988f">@jordansaping</a>\
 [https://members.delphidigital.io/reports/into-the-clanker-verse#introduction-53f1](https://members.delphidigital.io/reports/into-the-clanker-verse#introduction-53f1)
