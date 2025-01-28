@@ -11,6 +11,12 @@ by <a href="https://warpcast.com/sonyasupposedly">@sonyasupposedly</a>\
 
 ***
 
+**"Winning Together" with Clanker Cofounders Proxy & Dish | ZEROPOD S2E8**\
+by <a href="https://warpcast.com/toadyhawk.eth">@toadyhawk.eth</a>\
+[https://warpcast.com/toadyhawk.eth/0x23962cfb](https://warpcast.com/toadyhawk.eth/0x23962cfb)
+
+***
+
 **Digitized | Spotlight Ep. 14: Clanker - Tokenizing The Creator Economy w/ Alex and Jack**\
 by <a href="https://warpcast.com/digitized">@digitized</a>\
 [https://warpcast.com/digitized/0x1e499af4](https://warpcast.com/digitized/0x1e499af4)
