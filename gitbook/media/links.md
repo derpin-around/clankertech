@@ -11,6 +11,12 @@ by <a href="https://warpcast.com/sonyasupposedly">@sonyasupposedly</a>\
 
 ***
 
+**The Must Clank Show with Jack and Proxy | ZEROPOD**\
+by <a href="https://warpcast.com/zerorightsmedia">@zerorightsmedia</a>\
+[https://creators.spotify.com/pod/show/zerorightsmedia/episodes/The-Must-Clank-Show-with-Jack-and-Proxy---Pilot-Episode-e2u7f8l](https://creators.spotify.com/pod/show/zerorightsmedia/episodes/The-Must-Clank-Show-with-Jack-and-Proxy---Pilot-Episode-e2u7f8l)
+
+***
+
 **"Winning Together" with Clanker Cofounders Proxy & Dish | ZEROPOD S2E8**\
 by <a href="https://warpcast.com/toadyhawk.eth">@toadyhawk.eth</a>\
 [https://warpcast.com/toadyhawk.eth/0x23962cfb](https://warpcast.com/toadyhawk.eth/0x23962cfb)
