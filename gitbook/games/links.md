@@ -17,6 +17,12 @@ Test your sports predictions.\
 
 ***
 
+**@jackpotgame**\
+Web3 Slot Machine Game\
+[https://warpcast.com/jackpotgame](https://warpcast.com/jackpotgame)
+
+***
+
 **Ratchet Clanker**\
 An inclusive virtual environment for everyone to enjoy community, art, discussion, education, and more\
 [https://warpcast.com/~/channel/ratchet-clanker](https://warpcast.com/~/channel/ratchet-clanker)

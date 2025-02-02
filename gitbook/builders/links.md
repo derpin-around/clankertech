@@ -65,6 +65,12 @@ Clanker Co-founder\
 
 ## Community
 
+**@alirezakh**\
+Founder of: <a href="https://warpcast.com/clankster">@clankster</a> and <a href="https://warpcast.com/jackpotgame">@jackpotgame</a>\
+[https://warpcast.com/alirezakh](https://warpcast.com/alirezakh)
+
+***
+
 **@carc.eth**\
 Founder of DegenOS: <a href="https://warpcast.com/degenos">@degenos</a>, <a href="https://dos.live/">web</a>\
 [https://warpcast.com/carc.eth](https://warpcast.com/carc.eth)
