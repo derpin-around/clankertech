@@ -13,13 +13,7 @@ Every Clanker lives here\
 
 **Docs**\
 The official documentation\
-[https://github.com/clanker-devco/DOCS](https://github.com/clanker-devco/DOCS)
-
-***
-
-**API Docs**\
-Temporary but official API docs\
-[https://nonstop-sunfish-303.notion.site/temporary-API-docs-17f5aa0770778057b47ee718cae0f602](https://nonstop-sunfish-303.notion.site/temporary-API-docs-17f5aa0770778057b47ee718cae0f602)
+[https://gitbook.io/clanker](https://gitbook.io/clanker)
 
 ***
 
