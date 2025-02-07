@@ -65,6 +65,18 @@ Clanker Co-founder\
 
 ## Community
 
+**@flex**\
+Founder of <a href="https://warpcast.com/clanktank">@clanktank</a>\
+[https://warpcast.com/flex](https://warpcast.com/flex)
+
+***
+
+**@lior**\
+Founder of <a href="https://warpcast.com/productclank">@productclank</a>\
+[https://warpcast.com/lior](https://warpcast.com/lior)
+
+***
+
 **@alirezakh**\
 Founder of: <a href="https://warpcast.com/clankster">@clankster</a> and <a href="https://warpcast.com/jackpotgame">@jackpotgame</a>\
 [https://warpcast.com/alirezakh](https://warpcast.com/alirezakh)

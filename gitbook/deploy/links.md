@@ -17,6 +17,18 @@ A customizable space for every token that the deployer can make their own with T
 
 ***
 
+**Product Clank**\
+Product Hunt with Clankers. Bootstrap and get attention on your product.\
+[warpcast](https://warpcast.com/productclank) and [web](https://www.productclank.com/)
+
+***
+
+**Clank Tank**\
+An agentic Shark Tank with Clanker\
+[https://warpcast.com/clanktank](https://warpcast.com/clanktank)
+
+***
+
 **Clank.fun**\
 Deploy tokens without a Farcaster account\
 [https://clank.fun/launch](https://clank.fun/launch)
