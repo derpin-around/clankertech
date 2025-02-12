@@ -37,6 +37,11 @@ A customizable space for every token that the deployer can make their own with T
 
 ***
 
+**The Creators**\
+[https://warpcast.com/~/channel/thecreators](https://warpcast.com/~/channel/thecreators)
+
+***
+
 ## Agents
 
 **DegenOS**\

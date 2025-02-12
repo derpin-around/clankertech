@@ -25,6 +25,12 @@ Clanker Co-founder\
 
 ***
 
+**@lobstermindset.eth**\
+Protocol Engineer\
+[https://warpcast.com/lobstermindset.eth](https://warpcast.com/lobstermindset.eth)
+
+***
+
 ## Clanker Data Protection Team
 
 **@tian7.eth**\
@@ -64,6 +70,12 @@ Clanker Co-founder\
 ***
 
 ## Community
+
+**@rskagy.eth**\
+Founder of <a href="https://warpcast.com/~/channel/thecreators">/thecreators</a>\
+[https://warpcast.com/rskagy.eth](https://warpcast.com/rskagy.eth)
+
+***
 
 **@flex**\
 Founder of <a href="https://warpcast.com/clanktank">@clanktank</a>\
