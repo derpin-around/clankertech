@@ -76,39 +76,29 @@ The official X account\
 
 **Alex**\
 Clanker Founder\
-[https://warpcast.com/proxystudio.eth](https://warpcast.com/proxystudio.eth)
-
-***
-
-**Jack Dishman**\
-Clanker Co-founder\
-[https://warpcast.com/dish](https://warpcast.com/dish)
-
-***
-
-**Bryce Tayengco**\
-Clanker Co-founder\
-[https://warpcast.com/btayengco](https://warpcast.com/btayengco)
-
-***
-
-## X
-
-**Alex**\
-Clanker Founder\
+[https://warpcast.com/proxystudio.eth](https://warpcast.com/proxystudio.eth)\
 [https://x.com/_proxystudio](https://x.com/_proxystudio)
 
 ***
 
 **Jack Dishman**\
 Clanker Co-founder\
+[https://warpcast.com/dish](https://warpcast.com/dish)\
 [https://x.com/jackdishman](https://x.com/jackdishman)
 
 ***
 
 **Bryce Tayengco**\
 Clanker Co-founder\
+[https://warpcast.com/btayengco](https://warpcast.com/btayengco)\
 [https://x.com/btayengco](https://x.com/btayengco)
+
+***
+
+**Lily Johnson**\
+Protocol Engineer\
+[https://warpcast.com/lobstermindset.eth](https://warpcast.com/lobstermindset.eth)\
+[https://x.com/lobstermindset](https://x.com/lobstermindset)
 
 ***
 
