@@ -5,6 +5,11 @@ layout: editorial
 
 # Media Links
 
+**$CLANKER Lands on Coinbase Roadmap Feb. 19, 2025**\
+[https://x.com/CoinbaseAssets/status/1892314796109750760](https://x.com/CoinbaseAssets/status/1892314796109750760)
+
+***
+
 **This Week in Farcaster**\
 by <a href="https://warpcast.com/sonyasupposedly">@sonyasupposedly</a>\
 [https://warpcast.com/sonyasupposedly/0x9818fee9](https://warpcast.com/sonyasupposedly/0x9818fee9)
