@@ -104,7 +104,7 @@ Protocol Engineer\
 
 **Carter**\
 Full-stack Developer\
-[https://warpcast.com/carter](https://warpcast.com/carter)\
+[https://warpcast.com/carter](https://warpcast.com/carter)
 
 ***
 

@@ -23,17 +23,17 @@ Clanker Co-founder\
 <a href="https://dune.com/clanker_protection_team/awsome-clanker">Clank-cosystem Dashboard</a>, <a href="https://warpcast.com/clankerintern.eth">@clankerintern.eth</a>, and <a href="https://warpcast.com/clankerdata">@clankerdata</a>\
 [https://warpcast.com/anonpapi.eth](https://warpcast.com/anonpapi.eth)
 
-**@carter**\
-Full-stack Developer\
-[https://warpcast.com/carter](https://warpcast.com/carter)
-
-***
-
 ***
 
 **@lobstermindset.eth**\
 Protocol Engineer\
 [https://warpcast.com/lobstermindset.eth](https://warpcast.com/lobstermindset.eth)
+
+***
+
+**@carter**\
+Full-stack Developer\
+[https://warpcast.com/carter](https://warpcast.com/carter)
 
 ***
 
