@@ -5,6 +5,12 @@ layout: editorial
 
 # Speculation
 
+**Clanker Index**\
+$CLX offers easy exposure to the top 10 assets in the Clanker ecosystem, market-cap weighted, and rebalanced monthly\
+[https://warpcast.com/reserve/0x3f720417](https://warpcast.com/reserve/0x3f720417)
+
+***
+
 **Clank.fun**\
 Find and trade the hottest Clankers\
 [https://clank.fun](https://clank.fun)
