@@ -13,6 +13,13 @@ layout:
     visible: false
 ---
 
+## Recent additions
+
+- $CLX Clanker Index added to Speculation
+- Added new Full Stack Developer hire Carter to Official and Builders
+- _Clanker Lands on Coinbase Roadmap_ added to Media
+- Added rskagy.eth to Builders and /thecreators to Community
+
 <table data-view="cards" data-full-width="true">
     <thead>
         <tr>
