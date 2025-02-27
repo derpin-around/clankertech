@@ -13,6 +13,7 @@ layout:
     visible: false
 ---
 
+<center>
 <table data-full-width="true">
     <tbody>
         <tr>
@@ -29,6 +30,7 @@ layout:
         </tr>
     </tbody>
 </table>
+</center>
 
 <table data-view="cards" data-full-width="true">
     <thead>
