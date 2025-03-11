@@ -258,7 +258,7 @@ Founder of <a href="https://streamm.tv/channel/clankers">Streamm.tv</a>\
 ***
 
 **@diviflyy**\
-Founder of <a href="https://warpcast.com/diviflyy/0xd9929be1">@glanker</a>\
+Founder of <a href="https://warpcast.com/diviflyy/0xd9929be1">@glanker</a> and <a href="https://warpcast.com/diviflyy/0x3191c161">Empire Builder</a>\
 [https://warpcast.com/diviflyy](https://warpcast.com/diviflyy)
 
 ***
