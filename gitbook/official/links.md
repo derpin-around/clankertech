@@ -13,7 +13,7 @@ Every Clanker lives here\
 
 **Docs**\
 The official documentation\
-[https://gitbook.io/clanker](https://gitbook.io/clanker)
+[https://clanker.gitbook.io](https://clanker.gitbook.io/)
 
 ***
 
