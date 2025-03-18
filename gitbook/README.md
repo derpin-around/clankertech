@@ -19,13 +19,12 @@ layout:
             <td>
                 <strong>Latest updates</strong>
                 <ul>
+                <li>Added Checkr.social to Data</li>
                 <li>Updated link to new docs in Official</li>
                 <li>Added Empire Builder to Community and @diviflyy builder profile</li>
                 <li>$CLX Clanker Index added to Speculation</li>
                 <li>Added new Full Stack Developer hire Carter to Official and Builders</li>
                 <li><em>Clanker Lands on Coinbase Roadmap</em> added to Media</li>
-                <li>Added rskagy.eth to Builders and /thecreators to Community</li>
-                <li>Added new Protocol Engineer hire Lily Johnson to Official</li>
                 </ul>
             </td>
         </tr>
