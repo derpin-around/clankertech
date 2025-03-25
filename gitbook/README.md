@@ -13,7 +13,7 @@ layout:
     visible: false
 ---
 
-<span style="color:lime">$OPSYS is cohosting <a href="https://warpcast.com/~/channel/clankercon">Clankercon</a> May 29-31 with a whole slew of Base builders/teams. Sponsorships are avaliable large and small. Reach out to <a href="https://warpcast.com/jkcharters">@jkcharters</a> or <a href="https://warpcast.com/rskagy.eth">@rskagy.eth</a> to get more info. </span>
+<span class="text-lime-500">$OPSYS is cohosting <a href="https://warpcast.com/~/channel/clankercon">Clankercon</a> May 29-31 with a whole slew of Base builders/teams. Sponsorships are avaliable large and small. Reach out to <a href="https://warpcast.com/jkcharters">@jkcharters</a> or <a href="https://warpcast.com/rskagy.eth">@rskagy.eth</a> to get more info. </span>
 
 <table data-full-width="true">
     <tbody>
