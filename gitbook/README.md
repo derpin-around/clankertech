@@ -15,7 +15,7 @@ layout:
 
 # Choose a category
 
-<mark style="background-color:yellow;">**$OPSYS is cohosting**</mark> [<mark style="background-color:yellow;">**Clankercon**</mark>](https://warpcast.com/~/channel/clankercon) <mark style="background-color:yellow;">**May 29-31. Sponsorships are avaliable large and small. Reach out to**</mark> [<mark style="background-color:yellow;">**@jkcharters**</mark>](https://warpcast.com/jkcharters) <mark style="background-color:yellow;">**or**</mark> [<mark style="background-color:yellow;">**@rskagy.eth**</mark>](https://warpcast.com/rskagy.eth) <mark style="background-color:yellow;">**for more information.**</mark>
+<mark style="background-color:red;">**$OPSYS is cohosting**</mark> [<mark style="background-color:red;">**Clankercon**</mark>](https://warpcast.com/~/channel/clankercon) <mark style="background-color:red;">**May 29-31. Sponsorships are avaliable large and small. Reach out to**</mark> [<mark style="background-color:red;">**@jkcharters**</mark>](https://warpcast.com/jkcharters) <mark style="background-color:red;">**or**</mark> [<mark style="background-color:red;">**@rskagy.eth**</mark>](https://warpcast.com/rskagy.eth) <mark style="background-color:red;">**for more information.**</mark>
 
 <table data-header-hidden data-full-width="true"><thead><tr><th></th></tr></thead><tbody><tr><td><p><strong>Latest updates</strong></p><ul><li>Added Matt Lee to Builders and Tortoise to Community</li><li>Added Clankvortex to Deploy</li><li>Added Checkr.social to Data</li><li>Updated link to new docs in Official</li><li>Added Empire Builder to Community and @diviflyy builder profile</li></ul></td></tr></tbody></table>
 
