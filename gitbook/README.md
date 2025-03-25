@@ -19,13 +19,11 @@ layout:
             <td>
                 <strong>Latest updates</strong>
                 <ul>
+                <li>Added Matt Lee to Builders and Tortoise to Community</li>
                 <li>Added Clankvortex to Deploy</li>
                 <li>Added Checkr.social to Data</li>
                 <li>Updated link to new docs in Official</li>
                 <li>Added Empire Builder to Community and @diviflyy builder profile</li>
-                <li>$CLX Clanker Index added to Speculation</li>
-                <li>Added new Full Stack Developer hire Carter to Official and Builders</li>
-                <li><em>Clanker Lands on Coinbase Roadmap</em> added to Media</li>
                 </ul>
             </td>
         </tr>
