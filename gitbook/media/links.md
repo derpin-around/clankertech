@@ -5,14 +5,19 @@ layout: editorial
 
 # Media Links
 
+**Clanker Deep Dive Part 1**\
+[https://warpcast.com/matthewb/0xb79db209](https://warpcast.com/matthewb/0xb79db209)
+
+***
+
 **$CLANKER Lands on Coinbase Roadmap Feb. 19, 2025**\
 [https://x.com/CoinbaseAssets/status/1892314796109750760](https://x.com/CoinbaseAssets/status/1892314796109750760)
 
 ***
 
-**This Week in Farcaster**\
+**This Week in Farcaster (regular Clanker mentions)**\
 by <a href="https://warpcast.com/sonyasupposedly">@sonyasupposedly</a>\
-[https://warpcast.com/sonyasupposedly/0x9818fee9](https://warpcast.com/sonyasupposedly/0x9818fee9)
+[https://paragraph.xyz/@weekinfarcaster/](https://paragraph.xyz/@weekinfarcaster/)
 
 ***
 
