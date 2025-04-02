@@ -5,6 +5,11 @@ layout: editorial
 
 # Media Links
 
+**How Clanker made $9 million in 19 days**\
+[https://x.com/samuellhuber/status/1907493398983958707](https://x.com/samuellhuber/status/1907493398983958707)
+
+***
+
 **An AI Agent, a Wallet, and the Future of Value Creation**\
 [https://warpcast.com/mleejr/0x9a335085](https://warpcast.com/mleejr/0x9a335085)
 
