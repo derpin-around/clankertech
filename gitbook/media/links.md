@@ -5,6 +5,11 @@ layout: editorial
 
 # Media Links
 
+**The Clanker Ecosystem Is Bigger Than You Think — Builders Know It, and They’re All In**\
+[https://x.com/\_michaelpham\_/status/1910735535381139898](https://x.com/_michaelpham_/status/1910735535381139898)
+
+***
+
 **How Clanker made $9 million in 19 days**\
 [https://x.com/samuellhuber/status/1907493398983958707](https://x.com/samuellhuber/status/1907493398983958707)
 

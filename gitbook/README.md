@@ -28,13 +28,12 @@ layout:
       <td>
         <p><strong>Latest updates</strong></p>
         <ul>
+          <li>"The Clanker Ecosystem Is Bigger Than You Think..." added to Media</li>
           <li>Multiple additions to Media</li>
           <li>Added official Clanker frame to Deploy</li>
           <li>Added @matthewb's Clanker Deep Dive Part 1 to Media</li
           ><li>Added Matt Lee to Builders and Tortoise to Community</li>
           <li>Added Clankvortex to Deploy</li>
-          <li>Added Checkr.social to Data</li>
-          <li>Updated link to new docs in Official</li>
         </ul>
       </td>
     </tr>
